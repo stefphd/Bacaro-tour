@@ -25,7 +25,7 @@
 var NAVTREE =
 [
   [ "Bacaro tour", "index.html", [
-    [ "Bacaro tour in Venice", "md_main.html", null ]
+    [ "Bacaro tour in Venice", "index.html", null ]
   ] ]
 ];
 
