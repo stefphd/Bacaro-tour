@@ -1,3 +1,5 @@
 *.md
 Doxyfile
+Makefile
 .doxytheme
+html/*
