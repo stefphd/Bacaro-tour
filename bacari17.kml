@@ -71,19 +71,7 @@
     </Placemark>
     
     
-    <!--
-    <Placemark>
-      <name> Name</name>
-      <description> Aperto dalle XX.
-      Voto X/5 su XXXX recensioni
-      Url: XXX
-     </description>
-      <styleUrl>#bacaro_tour_venice</styleUrl>
-      <Point>
-        <coordinates>12.XXXXXXX, 45.XXXXXXXX,0</coordinates>
-      </Point>
-    </Placemark>
-    -->
+    
     
   </Document>
 </kml>
