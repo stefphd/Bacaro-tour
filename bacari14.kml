@@ -11,7 +11,9 @@
       </IconStyle>
       <BalloonStyle>
            <text>
-           <strong> $[name] </strong> <br/>
+           <b> 
+           $[name] 
+           </b> <br/>
            $[description]
            </text>
       </BalloonStyle>
