@@ -20,7 +20,6 @@
     
     <Placemark>
       <name>Bacareto da Lele</name>
-     </description>
       <styleUrl>#bacaro_tour_venice</styleUrl>
       <ExtendedData>
         <Data name="googlemaps">
