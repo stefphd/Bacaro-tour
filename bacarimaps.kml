@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>KmlFile</name>
+    <Style id="bacaro_tour_venice">
+      <IconStyle>
+        <Icon>
+          <href>https://maps.google.com/mapfiles/kml/pushpin/ylw-pushpin.png
+          </href>
+        </Icon>
+      </IconStyle>
+      <BalloonStyle>
+           <text><![CDATA[
+           <b> 
+           $[name] 
+           </b>
+           $[description]
+           ]]>
+           </text>
+      </BalloonStyle>
+    </Style>
+    
+    <Placemark>
+      <name>1. Bacareto da Lele</name>
+      <description> Aperto dalle 6.
+      Voto 4.8/5 su 3700 recensioni.
+      Url: https://goo.gl/maps/vjKN2cGq3HGzLrDAA
+     </description>
+      <styleUrl>#bacaro_tour_venice</styleUrl>
+      <Point>
+        <coordinates>12.321275059389697, 45.437575838030035,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>2. Arcicchetti Bakaro</name>
+      <description> Aperto dalle 11.
+      Voto 4.8/5 su 900 recensioni
+      Url: https://goo.gl/maps/EUqea7iRAZMBo2i9A
+     </description>
+      <styleUrl>#bacaro_tour_venice</styleUrl>
+      <Point>
+        <coordinates>12.32146688804558, 45.43755040731595,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>3. All'Arco</name>
+      <description> Aperto dalle 9.
+      Voto 4.7/5 su 740 recensioni
+      Url: https://goo.gl/maps/s53ZDsRF5Rj1wiqd9
+     </description>
+      <styleUrl>#bacaro_tour_venice</styleUrl>
+      <Point>
+        <coordinates>12.334063088768161, 45.43889453707516,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>4. Bacarando in Corte dell'Orso</name>
+      <description> Aperto dalle 10.
+      Voto 4.0/5 su 2200 recensioni
+      Url: https://goo.gl/maps/AycyTzjD3jNdk2KF8
+     </description>
+      <styleUrl>#bacaro_tour_venice</styleUrl>
+      <Point>
+        <coordinates>12.337412411665992, 45.43800429078582,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>5. Enoteca Schiavi</name>
+      <description> Aperto dalle 8:30.
+      Voto 4.6/5 su 1500 recensioni
+      Url: https://goo.gl/maps/p2knVvamx8cf8hqz8
+     </description>
+      <styleUrl>#bacaro_tour_venice</styleUrl>
+      <Point>
+        <coordinates>12.326683514741786, 45.43093715362319,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>6. Adriatico Mar</name>
+      <description> Aperto dalle 10.
+      Voto 4.7/5 su 500 recensioni
+      Url: https://g.page/MalvasiaAdriaticoMar?share
+     </description>
+      <styleUrl>#bacaro_tour_venice</styleUrl>
+      <Point>
+        <coordinates>12.324596996378524, 45.436172853465976,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>7. Osteria al Portego</name>
+      <description> Aperto dalle 11:30.
+      Voto 4.5/5 su 1500 recensioni
+      Url: https://goo.gl/maps/96MDz9P5KeT4Qtak9
+     </description>
+      <styleUrl>#bacaro_tour_venice</styleUrl>
+      <Point>
+        <coordinates>12.338542181211574, 45.43823470550406,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>8. Cantina do Mori </name>
+      <description> Aperto dalle 8.
+      Voto X4.4/5 su 600 recensioni
+      Url: https://goo.gl/maps/UoD8u8uZyG1LnVtg8
+     </description>
+      <styleUrl>#bacaro_tour_venice</styleUrl>
+      <Point>
+        <coordinates>12.333997629005829, 45.43896498598577,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>9. Da Fiore</name>
+      <description> Aperto dalle 9.
+      Voto 4.2/5 su 800 recensioni
+      Url: https://goo.gl/maps/19QMGKFCS2c1N425A
+     </description>
+      <styleUrl>#bacaro_tour_venice</styleUrl>
+      <Point>
+        <coordinates>12.330537671797723, 45.43382204161904,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>10. Magna Bevi Tasi</name>
+      <description> Aperto dalle 8.
+      Voto 4.4/5 su 1000 recensioni
+      Url: https://goo.gl/maps/1VFDzMgRfmwV9V629
+     </description>
+      <styleUrl>#bacaro_tour_venice</styleUrl>
+      <Point>
+        <coordinates>12.341544200210295, 45.434973951425576,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>11. Barcollo Bar</name>
+      <description> Aperto dalle N/D.
+      Voto 4.3/5 su 200 recensioni
+      Url: https://goo.gl/maps/rKM3QRn8YuEE379r5
+     </description>
+      <styleUrl>#bacaro_tour_venice</styleUrl>
+      <Point>
+        <coordinates>12.334828880919384, 45.439100391548585,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>12. Al Mercà</name>
+      <description> Aperto dalle 10.
+      Voto 4.7/5 su 700 recensioni
+      Url: https://goo.gl/maps/469383VAszhuexQZA
+     </description>
+      <styleUrl>#bacaro_tour_venice</styleUrl>
+      <Point>
+        <coordinates>12.3350021667472, 45.43898398647159,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>13. Al Bocon di Vino</name>
+      <description> Aperto dalle 9.
+      Voto 3.9/5 su 350 recensioni
+      Url: https://g.page/AlBocon?share
+     </description>
+      <styleUrl>#bacaro_tour_venice</styleUrl>
+      <Point>
+        <coordinates>12.323612060664457, 45.43463649509354,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
+      <name>Acqua e Mais</name>
+      <description> Aperto dalle 9:30.
+      Voto 4.4/5 su 900 recensioni
+      Url: https://goo.gl/maps/jmkGnwqa9X2FR3vL6
+     </description>
+      <styleUrl>#bacaro_tour_venice</styleUrl>
+      <Point>
+        <coordinates>12.331361883856285, 45.43734583795075,0</coordinates>
+      </Point>
+    </Placemark>
+    
+  </Document>
+</kml>

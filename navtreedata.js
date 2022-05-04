@@ -25,14 +25,23 @@
 var NAVTREE =
 [
   [ "Bacaro tour", "index.html", [
-    [ "Lista", "index.html#autotoc_md1", [
+    [ "Lista dei Bacari", "index.html#autotoc_md1", [
       [ "1. Bacareto da Lele", "index.html#lele", null ],
       [ "2. Arcicchetti Bakaro", "index.html#bakaro", null ],
       [ "3. All'Arco", "index.html#arco", null ],
       [ "4. Bacarando in Corte dell'Orso", "index.html#bacarando", null ],
-      [ "5. Enoteca Schiavi", "index.html#schiavi", null ]
+      [ "5. Enoteca Schiavi", "index.html#schiavi", null ],
+      [ "6. Adriatico Mar", "index.html#adriatico", null ],
+      [ "7. Osteria al Portego", "index.html#portego", null ],
+      [ "8. Cantina do Mori", "index.html#mori", null ],
+      [ "9. Da Fiore", "index.html#fiore", null ],
+      [ "10. Magna Bevi Tasi", "index.html#magna", null ],
+      [ "11. Barcollo Bar", "index.html#barcollo", null ],
+      [ "12. Al Mercà", "index.html#merca", null ],
+      [ "13. Al Bocon di Vino", "index.html#bocon", null ]
     ] ],
-    [ "Mappa completa", "index.html#autotoc_md2", null ]
+    [ "Pranzo", "index.html#autotoc_md2", null ],
+    [ "Mappa completa", "index.html#autotoc_md3", null ]
   ] ]
 ];
 
