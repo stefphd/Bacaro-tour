@@ -13,7 +13,7 @@
            <text><![CDATA[
            <b> 
            $[name] 
-           </b> <br/>
+           </b>
            $[description]
            ]]>
            </text>
@@ -22,8 +22,8 @@
     
     <Placemark>
       <name>Bacareto da Lele</name>
-      <description> Aperto dalle 6. <br/>
-      Voto 4.8/5 su 3700 recensioni. <br/>
+      <description> Aperto dalle 6.
+      Voto 4.8/5 su 3700 recensioni.
       Url: https://goo.gl/maps/vjKN2cGq3HGzLrDAA
      </description>
       <styleUrl>#bacaro_tour_venice</styleUrl>
