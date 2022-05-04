@@ -27,20 +27,20 @@ Lista di possibili bacari a Venezia 🍷🚀️.
 \endhtmlonly
 
 ### 3. All'Arco {#arco}
-	- Aperto dalle 9
-	- Vicino al Ponte di Rialto
-	- 4.7/5 su 740 recensioni
+* Aperto dalle 9
+* Vicino al Ponte di Rialto
+* 4.7/5 su 740 recensioni
 	
 \htmlonly 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2799.534116830871!2d12.331869015556599!3d45.43889197910062!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x477eb1db1328f14d%3A0x4f6e28e619cd559d!2sBar%20All&#39;Arco!5e0!3m2!1sit!2sit!4v1651658132084!5m2!1sit!2sit" width="350" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 \endhtmlonly
 
 ### 4. Bacarando in Corte dell'Orso {#bacarando}
-	- Aperto dalle 10
-	- Vicino a Ponte Rialto, lato opposto rispetto a [All'Arco](#arco)
-	- 4.0/5 su 2200 recensioni
-	- Cicchetti sembrano ottimi ma forse costano
-	- Spritz a 2.50 euro
+* Aperto dalle 10
+* Vicino al Ponte di Rialto, lato opposto rispetto a [All'Arco](#arco)
+* 4.0/5 su 2200 recensioni
+* Cicchetti sembrano ottimi ma forse costano
+* Spritz a 2.50 euro
 
 \htmlonly 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2799.578110509535!2d12.335221715556564!3d45.438005279100764!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x477eb1d125be0b57%3A0x98337c5d12c0f64b!2sBacarando%20in%20Corte%20dell&#39;Orso!5e0!3m2!1sit!2sit!4v1651658238397!5m2!1sit!2sit" width="350" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>

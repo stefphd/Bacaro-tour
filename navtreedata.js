@@ -27,9 +27,12 @@ var NAVTREE =
   [ "Bacaro tour", "index.html", [
     [ "Lista", "index.html#autotoc_md1", [
       [ "1. Bacareto da Lele", "index.html#lele", null ],
-      [ "2. Arcicchetti Bakaro**", "index.html#autotoc_md2", null ]
+      [ "2. Arcicchetti Bakaro", "index.html#bakaro", null ],
+      [ "3. All'Arco", "index.html#arco", null ],
+      [ "4. Bacarando in Corte dell'Orso", "index.html#bacarando", null ],
+      [ "5. Enoteca Schiavi", "index.html#schiavi", null ]
     ] ],
-    [ "Mappa completa", "index.html#autotoc_md3", null ]
+    [ "Mappa completa", "index.html#autotoc_md2", null ]
   ] ]
 ];
 
