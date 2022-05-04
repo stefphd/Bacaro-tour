@@ -25,7 +25,7 @@
 var NAVTREE =
 [
   [ "Bacaro tour", "index.html", [
-    [ "Bacaro tour in Venice", "index.html", null ]
+    [ "Mappa completa", "index.html#autotoc_md1", null ]
   ] ]
 ];
 

@@ -37,6 +37,38 @@ $extrastylesheet
     DoxygenAwesomeFragmentCopyButton.init()
 </script>
 
+<style>
+      #map {
+       height: 450px;
+       width: 650px;
+       overflow: hidden;
+       float: left;
+       border: thin solid #333;
+       }
+</style>
+
+<script>
+      var map;
+      var src = 'https://raw.githubusercontent.com/stefphd/Bacaro-tour/main/bacari15.kml';
+
+      function initMap() {
+        map = new google.maps.Map(document.getElementById('map'), {
+          center: new google.maps.LatLng(-19.257753, 146.823688),
+          zoom: 2,
+          mapTypeId: 'terrain'
+        });
+
+        var kmlLayer = new google.maps.KmlLayer(src, {
+          suppressInfoWindows: false,
+          preserveViewport: false,
+          map: map
+        });
+      }
+</script>
+<script async
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCjfqjN7o4lSopsbdUq2kviC02q5JcBNp8&callback=initMap">
+</script>
+
 </head>
 <body>
 <!--BEGIN DISABLE_INDEX-->

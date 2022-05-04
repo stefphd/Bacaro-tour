@@ -6,7 +6,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.9.3"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>Bacaro tour: Bacaro tour in Venice</title>
+<title>Bacaro tour: Bacaro tour</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -32,6 +32,34 @@
 <script type="text/javascript" src="doxygen-awesome-fragment-copy-button.js"></script>
 <script type="text/javascript">
     DoxygenAwesomeFragmentCopyButton.init()
+</script>
+<style>
+      #map {
+       height: 450px;
+       width: 650px;
+       overflow: hidden;
+       float: left;
+       border: thin solid #333;
+       }
+</style>
+<script>
+      var map;
+      var src = 'https://raw.githubusercontent.com/stefphd/Bacaro-tour/main/bacari15.kml';
+      function initMap() {
+        map = new google.maps.Map(document.getElementById('map'), {
+          center: new google.maps.LatLng(-19.257753, 146.823688),
+          zoom: 2,
+          mapTypeId: 'terrain'
+        });
+        var kmlLayer = new google.maps.KmlLayer(src, {
+          suppressInfoWindows: false,
+          preserveViewport: false,
+          map: map
+        });
+      }
+</script>
+<script async
+    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCjfqjN7o4lSopsbdUq2kviC02q5JcBNp8&callback=initMap">
 </script>
 </head>
 <body>
@@ -100,36 +128,35 @@ $(document).ready(function(){initNavTree('index.html',''); initResizable(); });
 </div>
 
 <div><div class="header">
-  <div class="headertitle"><div class="title">Bacaro tour in Venice </div></div>
+  <div class="headertitle"><div class="title">Bacaro tour </div></div>
 </div><!--header-->
 <div class="contents">
-<div class="textblock"><p ><a class="anchor" id="md_main"></a></p><ol type="1">
-<li>Bacareto da Lele<ul>
+<div class="textblock"><p ><a class="anchor" id="md_main"></a> Lista di possibili bacari a Venezia 🍷🚀️.</p>
+<ol type="1">
+<li><p class="startli"><b>Bacareto da Lele</b></p><ul>
 <li>Apre alle 6</li>
 <li>Vicino stazione</li>
-<li>3700 recensioni: 4.8/5</li>
+<li>4.8/5 su 3700 recensioni</li>
 <li>Moscato ad 1 euro</li>
 </ul>
-</li>
-</ol>
-<p > 
+<p class="startli"> 
     <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2799.6026845596607!2d12.319134715556524!3d45.43750997910067!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x477eb1c7cf5ef7dd%3A0xb4bd78e16e2a57c3!2sBacareto%20da%20Lele!5e0!3m2!1sit!2sit!4v1651605650666!5m2!1sit!2sit" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</p>
-<ol type="1">
-<li>Arcicchetti Bakaro<ul>
+    </p>
+</li>
+<li><b>Arcicchetti Bakaro</b><ul>
 <li>Apre alle 11</li>
-<li>Vicino a da Lele</li>
+<li>Vicino a <em>Bacareto da Lele</em></li>
 <li>900 recensioni: 4.8/5</li>
 <li>Cicchetti 1 euro</li>
 </ul>
 </li>
-<li>All'Arco<ul>
+<li><b>All'Arco</b><ul>
 <li>Apre alle 9</li>
 <li>Vicino a Ponte Rialto</li>
 <li>740 recensioni: 4.7/5</li>
 </ul>
 </li>
-<li>Bacarando<ul>
+<li><b>Bacarando</b><ul>
 <li>Apre alle 10</li>
 <li>Vicino a Ponte Rialto (opposto All'Arco)</li>
 <li>2200 recensioni: 4.0/5</li>
@@ -147,7 +174,12 @@ $(document).ready(function(){initNavTree('index.html',''); initResizable(); });
 <p >Barcollo Bar, vicino a ponte rialto, 4.3</p>
 <p >Al Mercà, Ponte Rialto, 4.7/5, apre alle 10</p>
 <p >Al Bocon di Vino, vicino da Lele, apre alle 9, basso punteggio e poche recensioni</p>
-<p >Per Mangiare: acqua e mais </p>
+<p >Per Mangiare: acqua e mais</p>
+<h1><a class="anchor" id="autotoc_md1"></a>
+Mappa completa</h1>
+<p > 
+<div id="map"></div>
+ </p>
 </div></div><!-- PageDoc -->
 </div><!-- contents -->
 </div><!-- doc-content -->
