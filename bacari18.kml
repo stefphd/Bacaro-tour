@@ -59,7 +59,7 @@
     
     
     <Placemark>
-      <name> Name</name>
+      <name> Bacarando in Corte dell'Orso</name>
       <description> Aperto dalle 10.
       Voto 4.0/5 su 2200 recensioni
       Url: https://goo.gl/maps/AycyTzjD3jNdk2KF8
@@ -69,9 +69,6 @@
         <coordinates>12.335221715556564, 45.438005279100764,0</coordinates>
       </Point>
     </Placemark>
-    
-    
-    
     
   </Document>
 </kml>
