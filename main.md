@@ -9,7 +9,7 @@ Lista di possibili bacari a Venezia 🍷🚀️.
 	- Moscato ad 1 euro
 	
 	\htmlonly 
-	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2799.6026845596607!2d12.319134715556524!3d45.43750997910067!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x477eb1c7cf5ef7dd%3A0xb4bd78e16e2a57c3!2sBacareto%20da%20Lele!5e0!3m2!1sit!2sit!4v1651605650666!5m2!1sit!2sit" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+	<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2799.6026845596607!2d12.319134715556524!3d45.43750997910067!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x477eb1c7cf5ef7dd%3A0xb4bd78e16e2a57c3!2sBacareto%20da%20Lele!5e0!3m2!1sit!2sit!4v1651605650666!5m2!1sit!2sit" width="300" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 	\endhtmlonly
 
 2. **Arcicchetti Bakaro**
