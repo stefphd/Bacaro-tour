@@ -177,6 +177,18 @@
     </Placemark>
     
     <Placemark>
+      <name>14. Osteria Al Squero</name>
+      <description> Aperto dalle 10.
+      Voto 4.7/5 su 2900 recensioni
+      Url: https://goo.gl/maps/n2MJ1G7mXQsXyWp77
+     </description>
+      <styleUrl>#bacaro_tour_venice</styleUrl>
+      <Point>
+        <coordinates>12.326117871047012, 45.43011028201757,0</coordinates>
+      </Point>
+    </Placemark>
+    
+    <Placemark>
       <name>Acqua e Mais</name>
       <description> Aperto dalle 9:30.
       Voto 4.4/5 su 900 recensioni
